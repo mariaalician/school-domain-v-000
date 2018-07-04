@@ -22,6 +22,6 @@ class School
   end
   
   def sort
-    self.sort
+    #self.sort
   end
 end
